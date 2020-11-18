@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1550816466 source:f:\study material\6(spring 2019)\cse 225\hw\lab_5_2\main.cpp
+	<iostream>
+	"timeStamp.h"
+	"sortedtype.cpp"
+
+1550735358 f:\study material\6(spring 2019)\cse 225\hw\lab_5_2\timestamp.cpp
+	"timeStamp.h"
+
+1550733442 f:\study material\6(spring 2019)\cse 225\hw\lab_5_2\sortedtype.cpp
+	"sortedtype.h"
+
+1550735053 f:\study material\6(spring 2019)\cse 225\hw\lab_5_2\sortedtype.h
+
+1550733442 source:f:\study material\6(spring 2019)\cse 225\hw\lab_5_2\sortedtype.cpp
+	"sortedtype.h"
+
+1550816186 f:\study material\6(spring 2019)\cse 225\hw\lab_5_2\timestamp.h
+	<iostream>
+
+1550816186 source:f:\study material\6(spring 2019)\cse 225\hw\lab_5_2\timestamp.cpp
+	"timeStamp.h"
+
+1551202060 source:f:\study material\6(spring 2019)\cse 225\cse 225 lab\lab_5_2\lab_5_2\main.cpp
+	<iostream>
+	"timeStamp.h"
+	"sortedtype.cpp"
+
+1551201308 f:\study material\6(spring 2019)\cse 225\cse 225 lab\lab_5_2\lab_5_2\timestamp.h
+	<iostream>
+
+1551201866 f:\study material\6(spring 2019)\cse 225\cse 225 lab\lab_5_2\lab_5_2\sortedtype.cpp
+	"sortedtype.h"
+
+1550735053 f:\study material\6(spring 2019)\cse 225\cse 225 lab\lab_5_2\lab_5_2\sortedtype.h
+
+1551201866 source:f:\study material\6(spring 2019)\cse 225\cse 225 lab\lab_5_2\lab_5_2\sortedtype.cpp
+	"sortedtype.h"
+
+1551201994 source:f:\study material\6(spring 2019)\cse 225\cse 225 lab\lab_5_2\lab_5_2\timestamp.cpp
+	"timeStamp.h"
+
+1551202060 source:f:\study material\6(spring 2019)\cse 225\cse 225 lab\lab sollutions\lab_5_2\lab_5_2\main.cpp
+	<iostream>
+	"timeStamp.h"
+	"sortedtype.cpp"
+
+1551201308 f:\study material\6(spring 2019)\cse 225\cse 225 lab\lab sollutions\lab_5_2\lab_5_2\timestamp.h
+	<iostream>
+
+1551201866 f:\study material\6(spring 2019)\cse 225\cse 225 lab\lab sollutions\lab_5_2\lab_5_2\sortedtype.cpp
+	"sortedtype.h"
+
+1550735053 f:\study material\6(spring 2019)\cse 225\cse 225 lab\lab sollutions\lab_5_2\lab_5_2\sortedtype.h
+
+1551201866 source:f:\study material\6(spring 2019)\cse 225\cse 225 lab\lab sollutions\lab_5_2\lab_5_2\sortedtype.cpp
+	"sortedtype.h"
+
+1551204044 source:f:\study material\6(spring 2019)\cse 225\cse 225 lab\lab sollutions\lab_5_2\lab_5_2\timestamp.cpp
+	"timeStamp.h"
+
+1551202060 source:g:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\timestamp\main.cpp
+	<iostream>
+	"timeStamp.h"
+	"sortedtype.cpp"
+
+1551201308 g:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\timestamp\timestamp.h
+	<iostream>
+
+1551201866 g:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\timestamp\sortedtype.cpp
+	"sortedtype.h"
+
+1550735053 g:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\timestamp\sortedtype.h
+
+1551201866 source:g:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\timestamp\sortedtype.cpp
+	"sortedtype.h"
+
+1551204044 source:g:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\timestamp\timestamp.cpp
+	"timeStamp.h"
+
